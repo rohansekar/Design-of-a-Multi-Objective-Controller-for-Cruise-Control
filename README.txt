@@ -7,4 +7,4 @@ multi-objective controller was designed using MATLAB Simulink and Python.
 
 Instructions to run the Fuzzy-PID controller:
 
--Upload the Fuzzy.fis file to the Fuzzy Logic Controller and se the values of the model as A=0.0276, B=8.333e-4, C=1 and D=0.
+-Upload the Fuzzy.fis file to the Fuzzy Logic Controller and set the values of the model as A=0.0276, B=8.333e-4, C=1 and D=0.
